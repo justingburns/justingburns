@@ -1,7 +1,13 @@
 Hi, I'm Justin Burns
+
 IT and cybersecurity executive with more than 25 years of experience leading technology and security functions in regulated industries. I personally implemented Claude and Microsoft Copilot as enterprise tools in my most recent role, using them to speed up everything from audit-finding remediation to agent-facing knowledge tools, and I've kept building since.
+
 What's here: small, practical tools inspired by real problems I've solved in IT operations, compliance, and customer support leadership. Each repo includes a README explaining the design decisions.
-[ai-knowledge-assist](https://github.com/justingburns/ai-knowledge-assist) — a knowledge assistant for contact center/webchat agents, grounded retrieval plus grammar/tone review, generalized from a tool I built in production.
-[compliance-remediation-assistant](https://github.com/justingburns/compliance-remediation-assistant) — drafts structured, framework-aware audit remediation write-ups from a rough finding description, generalized from a workflow I used to help take an organization's audit findings to zero.
+
+[ai-knowledge-assist](https://github.com/justingburns/ai-knowledge-assist) - a knowledge assistant for contact center/webchat agents, grounded retrieval plus grammar/tone review, generalized from a tool I built in production.
+
+[compliance-remediation-assistant](https://github.com/justingburns/compliance-remediation-assistant) - drafts structured, framework-aware audit remediation write-ups from a rough finding description, generalized from a workflow I used to help take an organization's audit findings to zero.
+
 Background: VP-level IT/security leadership across financial services, mortgage technology, higher education, and enterprise retail. NCUA ACET cybersecurity program builder, Board-level reporting, M&A technology integration, and hands-on AI implementation.
+
 Open to Director/VP/C-level technology and cybersecurity leadership roles. [LinkedIn](https://linkedin.com/in/justinburns)
